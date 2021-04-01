@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nexonmegaxus
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning html and css. 
+- 👀 I’m interested in frontend web development
+- 🌱 I’m currently learning html, css and js
 - 📫 Reach me on instagram: @jossiaa_
 
 <!---
